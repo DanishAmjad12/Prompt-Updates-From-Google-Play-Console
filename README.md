@@ -10,15 +10,28 @@ Google Play Console offers a feature called “Recovery tools” that allows you
 * Under “Latest releases,” click the arrow next to the release you want users to update from. This opens the Release details page.
 
 
+<img width="1206" alt="Screenshot 2024-03-01 at 5 38 09 PM" src="https://github.com/DanishAmjad12/Prompt_Updates_From_Google_Play_Console/assets/18696978/b245b5ca-e7e5-4fd0-86f7-ecbfb27111cf">
+
+
+
+
 ## 2. Start Recovery:
 
 * Click on Recovery tools in the top-right corner.
 * Select Prompt users to update from the dropdown menu.
 
 
+<img width="1212" alt="Screenshot 2024-03-01 at 5 41 05 PM" src="https://github.com/DanishAmjad12/Prompt_Updates_From_Google_Play_Console/assets/18696978/d2a255e9-76fa-45e0-beda-3017825c4b1a">
+
+
+
 ## 3. Choose App Bundle(s):
 
 * In the Choose a Bundle section, select the app bundle(s) containing the versions you want users to update from and click next.
+
+
+<img width="1510" alt="Screenshot 2024-03-01 at 5 25 46 PM" src="https://github.com/DanishAmjad12/Prompt_Updates_From_Google_Play_Console/assets/18696978/9a4bfc16-8564-4dc8-a803-c0e6faec9f79">
+
 
 
 ## 4. Refine Targeting:
